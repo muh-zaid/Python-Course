@@ -8,8 +8,12 @@ The project consists of the following files:
 - NYC_Housing_Market_Analysis_and_Price_Prediction.ipynb ==> Main Jupyter Notebook containing all Python code and analysis. 
 
 # How to Run the Project file
-- Create a folder named Python in your Google Drive. 
-- Upload Python_Project_Dataset.zip into the Python folder. 
-- Open NYC_Housing_Market_Analysis_and_Price_Prediction.ipynb in Google Colab. 
-- Run all cells in the notebook. When prompted, grant access to your Google Drive. 
-- The notebook will automatically extract the zip file and create a new folder containing all dataset CSV files.
+- Download or clone this repository to your local machine.
+- Open NYC_Housing_Market_Analysis_and_Price_Prediction.ipynb in Jupyter Notebook or Google Colab.
+- Run all cells in the notebook.
+- When prompted, upload the required dataset files:
+  - NYC Housing dataset
+  - Subway dataset
+  - Crime rate dataset
+
+The notebook will process the uploaded files automatically.
