@@ -1,6 +1,5 @@
 # Project Overview 
-- This project demonstrates data loading, preprocessing, and analysis using Python. The analysis is implemented in a Jupyter Notebook and is designed to run seamlessly in Google Colab with datasets stored on Google Drive. 
-- The notebook automatically handles dataset extraction and prepares the data for further analysis once the execution environment is set up correctly.
+- This project demonstrates data loading, preprocessing, and analysis using Python. The analysis is implemented in a Jupyter Notebook and is designed to run seamlessly in Google Colab with datasets uploaded upon request. 
 
 # Project Structure
 The project consists of the following files: 
